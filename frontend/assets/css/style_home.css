@@ -1,0 +1,43 @@
+/*CSS for header*/
+.col-md-12{
+    padding:0;
+}
+
+.container-fluid{
+    width: 50%;
+}
+.navbar-brand{
+    width: 150px;
+    height: 90px;
+}
+.img-fluid{
+    max-width: 100%;
+
+}
+
+.d-flex{
+    padding-left: 15px;
+}
+
+
+
+/*Icon*/
+.search-icon{
+    margin-top: 10px;
+    margin-left: 10px;
+    padding-right: 50px;
+    max-width: 100%;
+    color: white;
+}
+.bell-icon{
+    margin-bottom: 5px;
+    padding-right: 30px;
+    max-width: 100%;
+    color: white;
+}
+.user-icon{
+    margin-bottom: 5px;
+    padding-right: 5px;
+    max-width: 100%;
+    color: white;
+}
